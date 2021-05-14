@@ -6,3 +6,5 @@ Scripts:
 `fid.py` calulates FID of generated images  
 `inception_scores.py` calculates IS of generated images  
 `show_real_vs_fake.py` creates a figure with both real and fake images for visual assessment
+
+Notebooks:
