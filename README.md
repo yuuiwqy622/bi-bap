@@ -4,5 +4,5 @@ This is a repository for the bachelor thesis on the topic Comparison of Generati
 
 Scripts:  
 `fid.py` calulates FID of generated images  
-`inception_scores.py` calculates IS of generated images
-`show_real_vs_fake.py` creates a figure with both real and fake images for comparison
+`inception_scores.py` calculates IS of generated images  
+`show_real_vs_fake.py` creates a figure with both real and fake images for visual assessment
